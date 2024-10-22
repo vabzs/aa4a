@@ -1,0 +1,15 @@
+{
+  "name": "assignment-4a",
+  "version": "1.0.0",
+  "description": "This is WAD Pract 4a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {}
+}
